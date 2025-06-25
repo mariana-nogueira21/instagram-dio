@@ -2,7 +2,7 @@
 
 Este projeto é uma **simulação da página de login do Instagram**, desenvolvida com **HTML5** e **CSS3**. O objetivo é praticar habilidades de marcação semântica e estilização moderna, reproduzindo uma interface amplamente reconhecida e responsiva.
 
-![preview do projeto](./preview.png)
+![preview do projeto](./img/preview.png)
 ---
 
 ## 🚀 Tecnologias Utilizadas
